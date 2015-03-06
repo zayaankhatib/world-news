@@ -1,0 +1,11 @@
+{
+	"pg": {
+		"driver":	"pg",
+		"user": 	"test",
+		"password": "test",
+		"host": 	"localhost",
+		"database": "worldnews",
+		"schema": 	"worldnews"
+	},
+	"sql-file" : true
+}
